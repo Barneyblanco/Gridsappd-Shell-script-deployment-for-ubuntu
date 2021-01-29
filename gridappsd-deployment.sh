@@ -78,6 +78,10 @@ echo "Running final installation and starting the application"
 
 ./run-gridappsd.sh
 
+echo "Re-running the app"
+
+./run-gridappsd.sh
+
 echo "APPLICATION STARTED ON PORT 8080"
 
 
