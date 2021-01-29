@@ -72,6 +72,8 @@ echo "restarting docker service"
 
 service docker restart
 
+cd ../
+
 cd gridappsd-docker
 
 echo "Running final installation and starting the application"
